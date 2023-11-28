@@ -1,0 +1,2 @@
+Open command prompt in /Rigid Body Simulator/PhysicsEngine2D/dist folder where lib folder and physics engine 2d jar file exist, and run this:
+java --add-exports=java.base/java.lang=ALL-UNNAMED --add-exports=java.desktop/sun.awt=ALL-UNNAMED --add-exports=java.desktop/sun.java2d=ALL-UNNAMED -jar "PhysicsEngine2D.jar"
