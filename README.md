@@ -3,7 +3,7 @@
 ## Physics Engine in Java and OpenGL
 
 Developed a robust physics engine using Java and OpenGL, providing a platform for simulating complex physical interactions.Leveraged the power of OpenGL for efficient rendering and visualization of 2D polygons and their dynamic behavior.By reviewing the source code and physics concepts in my GitHub repository, you will gain valuable knowledge and qualifications necessary to create sophisticated physics-based games, akin to popular titles like brain-dots , brain-it-on! , draw-a-stickman and love-balls .
-Interactive Dashboard for Creating Custom Polygons and Customizing Body Parameters
+## Interactive Dashboard for Creating Custom Polygons and Customizing Body Parameters
 Implemented an intuitive dashboard interface allowing users to create custom polygons/shapes and customize parameters for each individual body within the simulation.Provided controls to set initial angular and linear position, angle, mass and velocity for precise configuration of body dynamics.Empowered users to initiate simulation execution with the click of a button, facilitating seamless interaction and exploration of dynamic scenarios.
 ## Dynamic 2D Polygon Simulation
 Implemented a dynamic simulation environment featuring 2D polygons falling from a height onto a cracked ground, enhancing challenge and realism.Designed the simulation to showcase realistic collisions and interactions between rigid bodies, accurately modeling physics principles.
